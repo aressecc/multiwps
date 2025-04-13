@@ -1,6 +1,6 @@
 # WPScan Multi-URL Scanner
 
-Este script permite escanear múltiples URLs de manera automática usando **WPScan** y guardar los resultados en un único archivo de texto.
+Este script te permite escanear varias url de forma automatica usando **WPScan** y guardar todos los resultados en un solo archivo de texto.
 
 ## 📋 Requisitos
 
@@ -13,4 +13,4 @@ Este script permite escanear múltiples URLs de manera automática usando **WPSc
 2. **Haz el script ejecutable**:
    ```bash
    chmod +x multiwps.sh
-   ./multiwps.sh.sh
+   ./multiwps.sh
